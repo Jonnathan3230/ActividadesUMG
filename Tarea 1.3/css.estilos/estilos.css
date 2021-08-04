@@ -1,0 +1,34 @@
+.primario {
+    color: red;
+}
+
+.secundario {
+    color: blue;
+}
+
+.terciario {
+    color: black;
+}
+.imagen {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.texto {
+    margin-right: 40px;
+}
+
+.subtitulo {
+    color: steelblue;
+    margin-top: 70px;
+}
+
+.titulos {
+    margin-top: 60px;
+}
+
+.subtitulo2 {
+    color: blue;
+    margin-left: 50px;
+}
+
